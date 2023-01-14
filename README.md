@@ -18,3 +18,7 @@ that path will be found in Server Explorer , clicking right click on name of dat
 at right side corner properties will be seen and over their the path that need to copied is in connection string .
 
 that will build connection establishment between databse.
+
+
+
+![Screenshot (https://user-images.githubusercontent.com/102210349/212490865-0ae578d4-ba91-49b7-9944-8fa026d60b64.png)
