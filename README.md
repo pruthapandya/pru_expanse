@@ -19,6 +19,14 @@ at right side corner properties will be seen and over their the path that need t
 
 that will build connection establishment between databse.
 
-
-
-![Screenshot (https://user-images.githubusercontent.com/102210349/212490865-0ae578d4-ba91-49b7-9944-8fa026d60b64.png)
+# Screen Shorts
+# Expense Report
+(https://user-images.githubusercontent.com/102210349/212492209-960376e0-9b8f-4519-9e69-473fc0260b51.png)
+# Connection String
+(https://user-images.githubusercontent.com/102210349/212492265-5b4ee2b5-9a7c-4e8f-b3cc-ecab380af142.png)
+# Migration
+(https://user-images.githubusercontent.com/102210349/212492295-019c8d22-7327-4c5f-b4f4-988a134087fe.png)
+# Add Expense
+![add_expense](https://user-images.githubusercontent.com/102210349/212492338-50dd6d04-0c1f-4cf2-a517-35dae0b4d193.png)
+# Index Of Expense Tracker
+![expense](https://user-images.githubusercontent.com/102210349/212492366-b8989b23-cc9b-48f5-86e5-7d902d73dde3.jpeg)
