@@ -1,4 +1,4 @@
-# pru_expanse
+# pru_expanse_tracker
 To start this project basic need is microsoft visual studio code 2022
 
 in their when user open stdio option of clone this project is seen that you need by select by clicking clone a repository which offen is 1st option.
